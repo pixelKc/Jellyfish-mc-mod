@@ -9,3 +9,5 @@ They drop glow inc sacs...
 
 
 Tools: [MCreator](https://mcreator.net/)
+
+Download on modrinth: https://modrinth.com/mod/jellyfish-mod
