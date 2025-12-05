@@ -1,11 +1,10 @@
 Jellyfish are an easier way of obtaining glow inc sacs... because BIOLUMINESCENCE
 
-Jellyfish Actually emit light because BIOLUMINESCENCE
-
 # Features
 ## Jellyfish
-There jellyfish, what do I have to explain
-They drop glow inc sacs...
+There jellyfish, what do I have to explain They drop glow inc sacs...
+
+In the furture I'm planning to make jellyfish emit light
 
 
 Tools: [MCreator](https://mcreator.net/)
