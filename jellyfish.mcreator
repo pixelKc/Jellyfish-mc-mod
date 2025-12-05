@@ -1,0 +1,69 @@
+{
+  "mod_elements": [
+    {
+      "name": "Jellyfish",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jellyfish",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jellyfish/entity/JellyfishEntity.java",
+          "src/main/resources/data/jellyfish/neoforge/biome_modifier/jellyfish_biome_modifier.json",
+          "src/main/resources/assets/jellyfish/items/jellyfish_spawn_egg.json",
+          "src/main/resources/assets/jellyfish/models/item/jellyfish_spawn_egg.json",
+          "src/main/java/net/mcreator/jellyfish/client/renderer/JellyfishRenderer.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ENTITIES:minecraft:aquatic": [
+      "~CUSTOM:Jellyfish"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "entity.jellyfish.jellyfish": "Jellyfish",
+      "item.jellyfish.jellyfish_spawn_egg": "Jellyfish Spawn Egg"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/jellyfish/init/JellyfishModItems.java",
+      "src/main/java/net/mcreator/jellyfish/init/JellyfishModEntityRenderers.java",
+      "src/main/java/net/mcreator/jellyfish/init/JellyfishModEntities.java",
+      "src/main/java/net/mcreator/jellyfish/init/JellyfishModModels.java",
+      "src/main/java/net/mcreator/jellyfish/init/JellyfishModTabs.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/jellyfish/JellyfishMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "jellyfish",
+    "modName": "Jellyfish",
+    "version": "0.1",
+    "description": "it adds jellyfish... they drop glow inc sac because bioluminescence",
+    "author": "pixelKc",
+    "websiteURL": "https://mcreator.net",
+    "license": "All Rights Reserved",
+    "serverSideOnly": false,
+    "modPicture": "screenshot",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.8",
+    "credits": "Tools: MCreator mcreator.net",
+    "modElementsPackage": "net.mcreator.jellyfish"
+  },
+  "mcreatorVersion": 202500345720
+}

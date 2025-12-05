@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="jellyfish"
+version="0.1"
+displayName="Jellyfish"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Tools: MCreator mcreator.net"
+authors="pixelKc"
+description="it adds jellyfish... they drop glow inc sac because bioluminescence"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+
+# Start of user code block custom mixins
+# End of user code block custom mixins
+
+[[dependencies.jellyfish]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.8.31,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.jellyfish]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.8]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
